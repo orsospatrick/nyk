@@ -1,3 +1,3 @@
-Sitemap: https://nicutransport.com/sitemap.xml
+Sitemap: https://nycktrans.com/sitemap.xml
 User-Agent: *
 Allow: /
